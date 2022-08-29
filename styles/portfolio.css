@@ -74,7 +74,7 @@ h1 {
   margin-bottom: 70px;
 }
 
-.yogurt-project h2 {
+.ukraine-project h2 {
   font-family: var(--heading-font-family);
   font-weight: 700;
   font-size: 64px;
@@ -82,7 +82,7 @@ h1 {
   margin-top: 120px;
 }
 
-.yogurt-project p {
+.ukraine-project p {
   color: rgba(39, 33, 66, 0.7);
   line-height: 30px;
 }
@@ -100,7 +100,7 @@ h1 {
   line-height: 30px;
 }
 
-.dictionary-project h2 {
+.next-project h2 {
   font-family: var(--heading-font-family);
   font-weight: 700;
   font-size: 64px;
@@ -108,7 +108,7 @@ h1 {
   margin-top: 120px;
 }
 
-.dictionary-project p {
+.next-project p {
   color: rgba(39, 33, 66, 0.7);
   line-height: 30px;
 }
@@ -125,7 +125,7 @@ h1 {
     padding: 0;
     text-align: center;
   }
-  .yogurt-project h2 {
+  .ukraine-project h2 {
     margin-top: 50px;
     font-size: 44px;
   }
@@ -139,7 +139,7 @@ h1 {
     font-size: 44px;
   }
 
-  .dictionary-project h2 {
+  .next-project h2 {
     margin-top: 50px;
     font-size: 44px;
   }
