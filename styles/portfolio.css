@@ -38,7 +38,7 @@ h4 {
 .hero {
   background-color: var(--secondary-color);
   text-align: center;
-  padding: 160px 20px;
+  padding: 60px 20px;
 }
 
 .hero h2 {
@@ -56,7 +56,7 @@ h4 {
   color: var(--default-text-color);
 }
 .content-container {
-  padding: 160px 20px;
+  padding: 60px 20px;
 }
 
 .content {
@@ -117,7 +117,7 @@ h4 {
   line-height: 27px;
   font-weight: 400;
   text-align: center;
-  margin-top: 150px;
+  margin-top: 75px;
   margin-bottom: 70px;
 }
 
@@ -220,7 +220,7 @@ footer a.email-link:hover {
   }
 
   .hero {
-    padding: 80px 20px;
+    padding: 40px 20px;
   }
 
   .projects {
