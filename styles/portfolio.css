@@ -205,7 +205,8 @@ footer a.email-link:hover {
 }
 
 @media (max-width: 900px) {
-  h1 {
+  .hero h1,
+  .about h1 {
     font-size: 60px;
   }
 
